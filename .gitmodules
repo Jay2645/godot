@@ -1,0 +1,6 @@
+[submodule "modules/voxel"]
+	path = modules/voxel
+	url = https://github.com/Zylann/godot_voxel.git
+[submodule "modules/oamlGodotDemo"]
+	path = modules/oamlGodotDemo
+	url = https://github.com/oamldev/oamlGodotDemo.git
