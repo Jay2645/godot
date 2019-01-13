@@ -4,3 +4,6 @@
 [submodule "modules/oamlGodotDemo"]
 	path = modules/oamlGodotDemo
 	url = https://github.com/oamldev/oamlGodotDemo.git
+[submodule "modules/character"]
+	path = modules/character
+	url = git@github.com:Jay2645/character.git
