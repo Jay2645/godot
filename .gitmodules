@@ -7,3 +7,6 @@
 [submodule "modules/character"]
 	path = modules/character
 	url = git@github.com:Jay2645/character.git
+[submodule "modules/command"]
+	path = modules/command
+	url = git@github.com:Jay2645/command.git
