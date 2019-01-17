@@ -10,3 +10,6 @@
 [submodule "modules/command"]
 	path = modules/command
 	url = git@github.com:Jay2645/command.git
+[submodule "modules/damage"]
+	path = modules/damage
+	url = git@github.com:Jay2645/damage.git
