@@ -13,3 +13,6 @@
 [submodule "modules/damage"]
 	path = modules/damage
 	url = git@github.com:Jay2645/damage.git
+[submodule "modules/fsm"]
+	path = modules/fsm
+	url = git@github.com:Jay2645/fsm.git
